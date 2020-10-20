@@ -4,10 +4,9 @@
   "shortDesc": "Here's some stuff",
   "url": "https://hylia.website",
   "authorEmail": "jason@willsvanchiu.com",
-  "authorHandle": "@hankchizljaw",
+  "authorHandle": "@lammii",
   "authorName": "Jason Chiu",
   "enableThirdPartyComments": false,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 5
 }
